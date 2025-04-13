@@ -1,8 +1,8 @@
-# 🎯 Quizzard — The Ultimate Quiz Challenge
+# 🎯 Binod.exe — Quizzard: The Ultimate Quiz Challenge (AMU Hacks 4.0)
 
 ![Quizzard Logo](./assets/Quizzard.png)
 
-Welcome to **Quizzard**, a fast-paced, web-based quiz game designed to test your knowledge across various subjects. Answer 5 random questions per round, beat the 10-second timer, and climb the leaderboard! It's fun, competitive, and visually engaging — perfect for casual players and trivia lovers alike.
+Welcome to **Quizzard**, submitted as `Binod.exe` for **AMU Hacks 4.0** — a fast-paced, web-based quiz game that tests your knowledge across various subjects. Answer 5 random questions per round, beat the 10-second timer, and top the leaderboard! Fun, competitive, and visually polished — made for trivia fans and casual players alike.
 
 ---
 
@@ -16,23 +16,44 @@ Welcome to **Quizzard**, a fast-paced, web-based quiz game designed to test your
 - ⏱️ 10-second countdown timer with auto-skip  
 - ✅ +10 points for correct answers, ❌ -5 for wrong answers  
 - 🎯 Instant color feedback (green/red) for each answer  
-- 📊 Visual progress bar and animated UI  
-- 🏆 Fake leaderboard to simulate competition  
+- 📊 Visual progress bar and question tracking  
+- 🏆 Fake leaderboard to simulate competitive spirit  
 - 📱 Clean, responsive interface inspired by modern quiz platforms  
-- 🔄 Fully modular JavaScript architecture for easy scaling
+- 🔄 Modular JavaScript architecture for easy scaling
 
 ---
 
 ## 🧩 Tech Stack
 
-- **HTML5** – Semantically structured pages  
-- **CSS3** – Responsive styling with a modern UI flair  
-- **JavaScript** – Core logic for quiz mechanics, timer, navigation
+- **HTML5** – Structured pages  
+- **CSS3** – Responsive, stylish UI (Quizzo-inspired)  
+- **JavaScript** – Handles all quiz logic, scoring, and navigation
 
 ---
 
 ## 📁 Project Structure
-quizzard/ ├── index.html # Home page (name input + start) ├── quiz.html # Quiz engine with timer and questions ├── result.html # Final score and leaderboard display ├── style.css # Shared styling across pages ├── script.js # Common navigation and state logic ├── quiz.js # Quiz engine logic (feedback, scoring, timer) ├── leaderboard.js # Fake leaderboard generator ├── data/ │ └── questions.js # Modular question bank ├── assets/ │ ├── Quizzard.png # Logo │ ├── QuizzardC.png # Cover image │ └── tick.mp3 # Tick sound effect
+quizzard/
+├── index.html         # Home page (Enter name + Start)
+├── quiz.html          # Quiz interface
+├── result.html        # Final score + leaderboard
+├── style.css          # Global styles
+├── script.js          # Shared JS logic (navigation, scores)
+├── quiz.js            # Quiz engine (timer, feedback, logic)
+├── leaderboard.js     # Fake leaderboard generator
+├── data/
+│   └── questions.js   # Question bank
+├── assets/
+│   ├── logo.png       # Logo
+│   ├── cover.png      # Cover image
+│   └── tick.mp3       # Countdown tick sound
+
+
+👥 Credits
+Designed & Developed by Hitesh-09
+
+Logo & cover generated with AI and creative tools
+
+Quiz data curated manually for fun & learning
 
 
 ---
@@ -48,8 +69,9 @@ cd quizzard
 
 # Open index.html in your browser — no build tools needed!
 
+🤝 Support & Contributions
+Found a bug? Have an idea to improve Quizzard?
+Feel free to fork the repo, star it 🌟, or submit a pull request — all contributions are welcome!
 
-🖼️ Screenshots
-Home Screen	Quiz Interface	Result Page
-(Insert assets/home.png)	(Insert assets/quiz.png)	(Insert assets/result.png)
-
+🚀 Live Preview (Optional)
+👉 Add a link here if hosted (e.g., GitHub Pages, Vercel, Netlify)
