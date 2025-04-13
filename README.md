@@ -32,4 +32,24 @@ Welcome to **Quizzard**, a fast-paced, web-based quiz game designed to test your
 ---
 
 ## 📁 Project Structure
+quizzard/ ├── index.html # Home page (name input + start) ├── quiz.html # Quiz engine with timer and questions ├── result.html # Final score and leaderboard display ├── style.css # Shared styling across pages ├── script.js # Common navigation and state logic ├── quiz.js # Quiz engine logic (feedback, scoring, timer) ├── leaderboard.js # Fake leaderboard generator ├── data/ │ └── questions.js # Modular question bank ├── assets/ │ ├── Quizzard.png # Logo │ ├── QuizzardC.png # Cover image │ └── tick.mp3 # Tick sound effect
+
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/quizzard.git
+
+# Navigate into the folder
+cd quizzard
+
+# Open index.html in your browser — no build tools needed!
+
+
+🖼️ Screenshots
+Home Screen	Quiz Interface	Result Page
+(Insert assets/home.png)	(Insert assets/quiz.png)	(Insert assets/result.png)
 
