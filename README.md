@@ -1,5 +1,5 @@
 # 🧠 Quizzard - The Ultimate Quiz Challenge  
-![Quizzard Logo](./assets/logo.png) <!-- Replace with actual path if different -->
+/Users/hitesh/Documents/Binod.exe_AMUHACKS4.0/assests/Quizzard.png
 
 Welcome to **Quizzard**, a fast-paced, visually engaging quiz game designed for fun, learning, and a touch of competition. Whether you’re a trivia lover or just passing time, Quizzard will keep your brain buzzing and your fingers racing!
 
@@ -11,7 +11,7 @@ Welcome to **Quizzard**, a fast-paced, visually engaging quiz game designed for 
 ---
 
 ## 📸 Cover Image  
-![Cover](./assets/cover.png) <!-- Replace with actual path -->
+/Users/hitesh/Documents/Binod.exe_AMUHACKS4.0/assests/QuizzardC.png
 
 ---
 
