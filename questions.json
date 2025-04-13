@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": 2,
+    "category": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": 1,
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "correctAnswer": 1,
+    "category": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": 3,
+    "category": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": 2,
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  }
+]

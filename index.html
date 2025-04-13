@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to the Ultimate Quiz</h1>
+  </header>
+  <main>
+    <div id="landing-page" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+      <h2>Test Your Knowledge!</h2>
+      <button id="start-quiz-btn" style="padding: 15px 30px; font-size: 1.2rem; background-color: #1e3c72; color: #fff; border: none; border-radius: 8px; cursor: pointer;">Start Quiz</button>
+    </div>
+    <div id="quiz-setup-container" style="display: none; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+      <div style="background-color: #ffffff; color: #000; padding: 30px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); text-align: center; width: 40%; max-width: 500px;">
+        <h2>Quiz Setup</h2>
+        <form id="quiz-setup-form">
+          <div style="margin-bottom: 20px;">
+            <label for="question-type">Select Question Type:</label><br>
+            <select id="question-type" name="question-type" required style="padding: 10px; width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+              <option value="history">History</option>
+              <option value="science">Science</option>
+              <option value="maths">Maths</option>
+            </select>
+          </div>
+          <div style="margin-bottom: 20px;">
+            <label for="difficulty-level">Select Difficulty Level:</label><br>
+            <select id="difficulty-level" name="difficulty-level" required style="padding: 10px; width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+              <option value="easy">Easy</option>
+              <option value="medium">Medium</option>
+              <option value="hard">Hard</option>
+            </select>
+          </div>
+          <button type="submit" style="padding: 10px 20px; background-color: #1e3c72; color: #fff; border: none; border-radius: 8px; cursor: pointer;">Start Quiz</button>
+        </form>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2023 Quiz Website</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

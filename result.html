@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Results</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Quiz Results</h1>
+    </header>
+    <main>
+        <div id="result-container" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+            <div style="background-color: #ffffff; color: #000; padding: 30px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); text-align: center; width: 40%; max-width: 500px;">
+                <h2>Congratulations!</h2>
+                <p>Your Score: <span id="final-score">0</span></p>
+                <button id="retry-btn" style="padding: 10px 20px; background-color: #1e3c72; color: #fff; border: none; border-radius: 8px; cursor: pointer;">Retry Quiz</button>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2023 Quiz Website</p>
+    </footer>
+    <script src="result.js"></script>
+</body>
+</html>
