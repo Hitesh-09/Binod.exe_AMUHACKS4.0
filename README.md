@@ -1,47 +1,35 @@
-# 🧠 Quizzard - The Ultimate Quiz Challenge  
-/Users/hitesh/Documents/Binod.exe_AMUHACKS4.0/assests/Quizzard.png
+# 🎯 Quizzard — The Ultimate Quiz Challenge
 
-Welcome to **Quizzard**, a fast-paced, visually engaging quiz game designed for fun, learning, and a touch of competition. Whether you’re a trivia lover or just passing time, Quizzard will keep your brain buzzing and your fingers racing!
+![Quizzard Logo](./assets/Quizzard.png)
 
----
-
-## 🎮 Live Preview
-👉 [Play Quizzard Now!](#) *(Add link if deployed)*
+Welcome to **Quizzard**, a fast-paced, web-based quiz game designed to test your knowledge across various subjects. Answer 5 random questions per round, beat the 10-second timer, and climb the leaderboard! It's fun, competitive, and visually engaging — perfect for casual players and trivia lovers alike.
 
 ---
 
-## 📸 Cover Image  
-/Users/hitesh/Documents/Binod.exe_AMUHACKS4.0/assests/QuizzardC.png
+![Cover Image](./assets/QuizzardC.png)
 
 ---
 
-## 🚀 Features
-- ✅ 5 random questions per session
-- ⏱️ 10-second countdown timer per question
-- ❓ Instant feedback with color highlights
-- 💯 Score system: +10 for correct, -5 for wrong
-- ⌛ Auto-skip on timeout
-- 📊 Visual progress bar and question tracker
-- 🏆 Fake leaderboard to hype the competition
-- 🎨 Clean, modern UI (inspired by Quizzo style)
-- 📱 Fully responsive and mobile-friendly
+## 🧠 Features
+
+- ✅ 5 random questions per game session  
+- ⏱️ 10-second countdown timer with auto-skip  
+- ✅ +10 points for correct answers, ❌ -5 for wrong answers  
+- 🎯 Instant color feedback (green/red) for each answer  
+- 📊 Visual progress bar and animated UI  
+- 🏆 Fake leaderboard to simulate competition  
+- 📱 Clean, responsive interface inspired by modern quiz platforms  
+- 🔄 Fully modular JavaScript architecture for easy scaling
 
 ---
 
 ## 🧩 Tech Stack
-- HTML5  
-- CSS3 (Custom styling inspired by modern trivia platforms)  
-- JavaScript (Modular file structure)
+
+- **HTML5** – Semantically structured pages  
+- **CSS3** – Responsive styling with a modern UI flair  
+- **JavaScript** – Core logic for quiz mechanics, timer, navigation
 
 ---
 
-## 🛠️ Setup Instructions
+## 📁 Project Structure
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/quizzard.git
-
-# Navigate into the project folder
-cd quizzard
-
-# Just open index.html in your browser — no build step needed!
