@@ -32,6 +32,7 @@ Welcome to **Quizzard**, submitted as `Binod.exe` for **AMU Hacks 4.0** — a fa
 ---
 
 ## 📁 Project Structure
+
 quizzard/
 ├── index.html         # Home page (Enter name + Start)
 ├── quiz.html          # Quiz interface
@@ -56,6 +57,14 @@ Logo & cover generated with AI and creative tools
 Quiz data curated manually for fun & learning
 
 
+🤝 Support & Contributions
+Found a bug? Have an idea to improve Quizzard?
+Feel free to fork the repo, star it 🌟, or submit a pull request — all contributions are welcome!
+
+🚀 Live Preview (Optional)
+👉 Add a link here if hosted (e.g., GitHub Pages, Vercel, Netlify)
+
+
 ---
 
 ## ⚙️ How to Run Locally
@@ -69,9 +78,4 @@ cd quizzard
 
 # Open index.html in your browser — no build tools needed!
 
-🤝 Support & Contributions
-Found a bug? Have an idea to improve Quizzard?
-Feel free to fork the repo, star it 🌟, or submit a pull request — all contributions are welcome!
 
-🚀 Live Preview (Optional)
-👉 Add a link here if hosted (e.g., GitHub Pages, Vercel, Netlify)
