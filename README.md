@@ -32,37 +32,48 @@ Welcome to **Quizzard**, submitted as `Binod.exe` for **AMU Hacks 4.0** — a fa
 ---
 
 ## 📁 Project Structure
-
-quizzard/
-├── index.html         # Home page (Enter name + Start)
-├── quiz.html          # Quiz interface
-├── result.html        # Final score + leaderboard
-├── style.css          # Global styles
-├── script.js          # Shared JS logic (navigation, scores)
-├── quiz.js            # Quiz engine (timer, feedback, logic)
-├── leaderboard.js     # Fake leaderboard generator
+Binod.exe_AMUHACKS4.0/
+│
+├── index.html             # 🏠 Home screen (Enter name + Start quiz)
+├── quiz.html              # 🧠 Quiz screen (Questions, timer, feedback)
+├── result.html            # 🏁 Result screen (Final score + leaderboard)
+│
+├── style.css              # 🎨 Styling and layout (responsive UI)
+├── script.js              # 🔁 Shared JS logic (name input, score handling)
+├── quiz.js                # 💡 Core quiz logic (random questions, timer, scoring)
+├── leaderboard.js         # 🏆 Fake leaderboard generator
+│
 ├── data/
-│   └── questions.js   # Question bank
+│   └── questions.js       # 📚 Question bank (categorized trivia questions)
+│
 ├── assets/
-│   ├── logo.png       # Logo
-│   ├── cover.png      # Cover image
-│   └── tick.mp3       # Countdown tick sound
-
+│   ├── Quizzard.png       # 🧩 Logo for branding
+│   ├── QuizzardC.png      # 📸 Cover image for repo and preview
+│   └── tick.mp3           # ⏱️ Tick sound for the countdown timer
+│
+└── README.md              # 📖 Project documentation (this file)
 
 👥 Credits
-Designed & Developed by Hitesh-09
+Developed by Hitesh Rajesh Shimpi
 
-Logo & cover generated with AI and creative tools
+Team Name: Binod.exe
 
-Quiz data curated manually for fun & learning
+Submitted for AMU Hacks 4.0
+
+Logo & Cover Art generated using AI tools
+
+Manually curated question bank
+
+Frontend inspired by modern trivia UIs like Quizzo
 
 
-🤝 Support & Contributions
-Found a bug? Have an idea to improve Quizzard?
-Feel free to fork the repo, star it 🌟, or submit a pull request — all contributions are welcome!
+⭐ Support & Contributions
+We welcome stars 🌟 and forks 🍴!
+Feel free to submit pull requests or ideas to enhance Quizzard.
+Let’s make quiz gaming more fun and educational together!
 
 🚀 Live Preview (Optional)
-👉 Add a link here if hosted (e.g., GitHub Pages, Vercel, Netlify)
+👉 [Add your deployed link here if using GitHub Pages / Vercel / Netlify]
 
 
 ---
@@ -71,11 +82,15 @@ Feel free to fork the repo, star it 🌟, or submit a pull request — all contr
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/quizzard.git
+git clone https://github.com/Hitesh-09/Binod.exe_AMUHACKS4.0.git
 
-# Navigate into the folder
-cd quizzard
+# Navigate into the project folder
+cd Binod.exe_AMUHACKS4.0
 
-# Open index.html in your browser — no build tools needed!
+# Open index.html in your browser — no build step required!
 
+
+---
+
+Let me know if you'd like help setting up GitHub Pages or creating screenshots to complete the README.
 
