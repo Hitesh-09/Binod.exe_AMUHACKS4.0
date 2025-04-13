@@ -73,7 +73,7 @@ Feel free to submit pull requests or ideas to enhance Quizzard.
 Let’s make quiz gaming more fun and educational together!
 
 🚀 Live Preview (Optional)
-👉 [Add your deployed link here if using GitHub Pages / Vercel / Netlify]
+(https://hitesh-09.github.io/Binod.exe_AMUHACKS4.0/)
 
 
 ---
@@ -88,9 +88,4 @@ git clone https://github.com/Hitesh-09/Binod.exe_AMUHACKS4.0.git
 cd Binod.exe_AMUHACKS4.0
 
 # Open index.html in your browser — no build step required!
-
-
----
-
-Let me know if you'd like help setting up GitHub Pages or creating screenshots to complete the README.
 
